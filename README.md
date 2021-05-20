@@ -9,5 +9,9 @@
 
 <b>First things first, we need to import 3 libraries. The first one is the obvious one, which is tkinter. Then, we need datetime library to work with dates. Finally, we need PIL library which will help us to work with images.</b>
 
+import datetime
+import tkinter as tk
+from PIL import Image,ImageTk
+
 
 
