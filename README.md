@@ -81,6 +81,9 @@ label_image.grid(column=1,row=0)
 ```ruby
 root.mainloop()
 ```
-```ruby
+
+##
+
+#OUTPUT
 ![Image](Age-Calculator.png)
-```
+
