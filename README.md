@@ -84,6 +84,6 @@ root.mainloop()
 
 ##
 
-#OUTPUT
+# OUTPUT
 ![Image](Age-Calculator.png)
 
